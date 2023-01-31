@@ -7,6 +7,14 @@ this app is made using bootstrap and rapidapi with little added granishing of ja
 
 this app is inspired by the codewithharry youtube channel
 
-hoep you like it
+steps to see it running:
+
+1. download zipped folder 
+2. unzip it
+3. click on index.html
+BAM!!! you have wheather app running on local machine
+
+
+hope you like it
 
 HAPPY CODING!!!
